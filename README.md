@@ -31,9 +31,9 @@ EDA_Alquileres_Malaga
     │   └── reviews.csv            
     │
     ├── img/                    <-- Imágenes y gráficos incluídos en el EDA
-    │   ├── image.png
-    │   ├── Malaga_ciudad.png
-    │   └── mapa_por zonas.png
+    │   ├── H1 Matriz corr h1.png
+    │   ├── (...)               <-- (Resto de gráficos e imágenes del análisis)
+    │   └── Malaga_ciudad.jpg
     │
     ├── notebooks/              <-- Notebooks con las 5 fases del EDA
     │   ├── Fase_01_...ipynb
